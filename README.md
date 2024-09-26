@@ -1,5 +1,7 @@
 # Stephanie Durand
 
+![test](/docs/assets/images/photo.png)
+
 CNRS Researcher
 LGL-TPE
 2 rue Raphaël Dubois
