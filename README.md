@@ -2,6 +2,11 @@
 
 <img src="/docs/assets/images/VMPS1710_D_01.JPG" width="20%" height="auto">
 
+.text {
+  display: inline-block;
+  vertical-align: top;
+}
+
 <div class="container">
   <img src="/docs/assets/images/VMPS1710_D_01.JPG>
   <p class="text">Some text here</p>
