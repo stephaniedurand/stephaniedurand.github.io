@@ -1,6 +1,7 @@
 # Stephanie Durand
 
-![test](/docs/assets/images/VMPS1710_D_01.JPG)
+%![test](/docs/assets/images/VMPS1710_D_01.JPG)
+<img src="/docs/assets/images/VMPS1710_D_01.JPG" width="100" height="100">
 
 CNRS Researcher
 LGL-TPE
