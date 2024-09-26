@@ -1,6 +1,6 @@
 # Stephanie Durand
 
-<img src="/docs/assets/images/VMPS1710_D_01.JPG" width="20%" height="auto">
+##<img src="/docs/assets/images/VMPS1710_D_01.JPG" width="20%" height="auto">
 
 <div class="container">
   <img src="/docs/assets/images/VMPS1710_D_01.JPG>
