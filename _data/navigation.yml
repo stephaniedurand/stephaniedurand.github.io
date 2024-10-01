@@ -1,10 +1,8 @@
 - name: Home
-  link: /index
-- name: Program
-  link: /program
-- name: Registration
-  link: /registration
-- name: Practical informations
-  link: /practical_informations
-- name: Lecture notes
-  link: /lectures_pdf
+  link: /README
+- name: Research
+  link: /research
+- name: Ressources
+  link: /ressources
+- name: Publications
+  link: /publications
